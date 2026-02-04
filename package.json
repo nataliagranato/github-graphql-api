@@ -21,7 +21,7 @@
   "author": "Natália Granato",
   "license": "GPL-3.0",
   "dependencies": {
-    "@apollo/server": "^5.0.0",
+    "@apollo/server": "^5.4.0",
     "@apollo/subgraph": "^2.11.2",
     "axios": "^1.12.0",
     "cors": "^2.8.5",
