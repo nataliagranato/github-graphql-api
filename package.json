@@ -22,7 +22,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@apollo/server": "^5.4.0",
-    "@apollo/subgraph": "^2.11.2",
+    "@apollo/subgraph": "^2.13.2",
     "axios": "^1.13.5",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
